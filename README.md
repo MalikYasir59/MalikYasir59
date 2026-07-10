@@ -109,15 +109,15 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 > Webhook → Text Parser → Google Gemini AI → Slack Auto-Reply
 
 ### Make.com — LinkedIn Lead Extractor  
-![LinkedIn Extractor](automation%20workflow/screenshots/linkedin-lead-extractor.png/linkedin-lead-extractor.png)
+![LinkedIn Extractor](automation%20workflow/screenshots/linkedin-lead-extractor.png/linkedin%20lead%20extractor.png)
 > Webhook → JSON Parser → Array Aggregator → Google Sheets
 
 ### Make.com — Multi-Channel CRM
-![CRM Automation](automation%20workflow/screenshots/multichannel-crm.png/multichannel-crm.png)
+![CRM Automation](automation%20workflow/screenshots/multichannel-crm.png/multichannel%20crm.png)
 > Dux-Soup · HubSpot · Mailchimp · ActiveCampaign · Google · Slack · Email · SMS
 
 ### Make.com — AI Meeting to Task
-![Meeting to Task](automation%20workflow/screenshots/ai-meeting-to-task.png/ai-meeting-to-task.png)
+![Meeting to Task](automation%20workflow/screenshots/ai-meeting-to-task.png/ai%20meeting%20to%20task.png)
 > Fathom Transcripts → OpenAI → Auto-Created ClickUp Tasks
 
 ## ⭐ Client reviews — verified on Upwork & Fiverr
