@@ -123,6 +123,13 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 
 > Fathom Transcripts → OpenAI → Auto-Created ClickUp Tasks
 
+
+### n8n — Cold Email Outreach AI Agent
+📦 **Workflow File:** [`cold-email-outreach.json`](automation%20workflow/n8n/cold-email-outreach.json)
+> Manual Trigger → LangChain AI Agent (Ozoneltd Cold Email Workflow V2) → Dynamic Copy Generation
+
+An advanced n8n automation utilizing LangChain agents to process, personalize, and optimize cold outbound email workflows with automated contextual replies.
+
 ## ⭐ Client reviews — verified on Upwork & Fiverr
 
 > **5.0★** — GoHighLevel & Make.com Automation Architect *(Upwork, May 2026)*
