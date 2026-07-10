@@ -128,8 +128,8 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 
 An advanced n8n automation utilizing LangChain agents to process, personalize, and optimize cold outbound email workflows with automated contextual replies.
 
-#### 📦 Workflow JSON Configuration
-Click "Copy" on the code block below to import this directly into your n8n canvas:
+<details>
+<summary>📦 Click to expand Workflow JSON Configuration</summary>
 
 ```json
 {
@@ -163,7 +163,6 @@ Click "Copy" on the code block below to import this directly into your n8n canva
     }
   ]
 }
-
 ## ⭐ Client reviews — verified on Upwork & Fiverr
 
 > **5.0★** — GoHighLevel & Make.com Automation Architect *(Upwork, May 2026)*
