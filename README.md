@@ -4,7 +4,7 @@
 
 <p align="center">
 I build intelligent automation ecosystems and production-grade SaaS platforms.<br/>
-My work bridges LLM orchestration, workflow automation, and full-stack engineering —<br/>
+My work bridges LLM orchestration, workflow automation, and full-stack engineering <br/>
 delivering real systems that reduce manual work, scale pipelines, and ship fast.
 </p>
 
