@@ -128,41 +128,8 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 
 An advanced n8n automation utilizing LangChain agents to process, personalize, and optimize cold outbound email workflows with automated contextual replies.
 
-<details>
-<summary>📦 Click to expand Workflow JSON Configuration</summary>
+🔗 **[Import Workflow into n8n](https://raw.githubusercontent.com/MalikYasir59/automation-workflows/main/automation%20workflow/screenshots/n8n/cold-email-outreach.json/Ozoneltd%20Cold%20email%20workflow%20V2.json)** *(Click to view raw JSON, then `Ctrl+A` and `Ctrl+C` to copy)*
 
-```json
-{
-  "name": "Ozoneltd Cold email workflow V2",
-  "nodes": [
-    {
-      "parameters": {},
-      "type": "n8n-nodes-base.manualTrigger",
-      "typeVersion": 1,
-      "position": [
-        -3152,
-        864
-      ],
-      "id": "875051a9-e2b8-4920-83df-45ae8efd5599",
-      "name": "When clicking \"Execute workflow\""
-    },
-    {
-      "parameters": {
-        "text": "=System: You are Malik Yasir, Lead Architect at OzoneSync. Write a short..."
-      },
-      "options": {},
-      "id": "1c87b611-91e9-4149-9349-93ceb83a9137",
-      "name": "AI Agent",
-      "type": "@n8n/n8n-nodes-langchain.agent",
-      "typeVersion": 1,
-      "position": [
-        -1392,
-        672
-      ],
-      "retryOnFail": true
-    }
-  ]
-}
 ## ⭐ Client reviews — verified on Upwork & Fiverr
 
 > **5.0★** — GoHighLevel & Make.com Automation Architect *(Upwork, May 2026)*
