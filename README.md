@@ -128,7 +128,7 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 
 An advanced n8n automation utilizing LangChain agents to process, personalize, and optimize cold outbound email workflows with automated contextual replies.
 
-🔗 **[Import Workflow into n8n](https://raw.githubusercontent.com/MalikYasir59/MalikYasir59/main/automation%20workflow/screenshots/n8n/cold-email-outreach.json/Ozoneltd%20Cold%20email%20workflow%20V2.json)** *(Click to view raw JSON, then press Ctrl+A and Ctrl+C to copy)*
+📋 **[View & Copy n8n Workflow Blueprint](https://gist.github.com/MalikYasir59/6ecd45b96e958df0adb3882e30a9741f)**
 
 ## ⭐ Client reviews — verified on Upwork & Fiverr
 
