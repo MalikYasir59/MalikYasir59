@@ -1,22 +1,34 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D084&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Yasir+—+AI+Automation+Engineer;n8n+|+Make.com+|+LLM+Workflows;Full+Stack+Dev+|+React+|+Node+|+FastAPI;Building+AI+systems+that+actually+work." alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hi, I'm Muhammad Yasir Ramzan</h1>
+
+<h3 align="center">AI Automation Engineer & Full Stack Developer | OzoneSync Limited</h3>
+
+<p align="center">
+I build intelligent automation ecosystems and production-grade SaaS platforms.<br/>
+My work bridges LLM orchestration, workflow automation, and full-stack engineering —<br/>
+delivering real systems that reduce manual work, scale pipelines, and ship fast.
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/malikyasir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:malikyasirramzan59@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/MalikYasir59"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-## 👨‍💻 About me
 
-```yaml
-name       : Muhammad Yasir Ramzan
-role       : AI Automation Engineer & Full Stack Developer
-company    : OzoneSync Limited — Islamabad, Pakistan
-education  : B.Sc Software Engineering — NUML (CGPA 3.39)
-focus      : LLM Workflows · n8n · Make.com · React · Node.js
-available  : Open to Remote Opportunities
-```
+---
+
+## 🚀 About me
+
+- 🔭 **Current Role:** AI Automation & Workflow Architect at **OzoneSync Limited**, Islamabad
+- 🤖 **Currently Building:** AI-powered lead generation pipelines, RAG knowledge systems, and Make.com automation workflows for B2B clients
+- 🌐 **Full Stack Focus:** Next.js · Node.js · FastAPI · PostgreSQL · AWS — production-ready SaaS platforms
+- 🧠 **AI & LLM Stack:** OpenAI GPT-4 · Google Gemini · Anthropic Claude · LLaMA · LangChain · Pinecone
+- ⚙️ **Automation Tools:** n8n (self-hosted) · Make.com · Zapier · HubSpot CRM · Apollo · PhantomBuster
+- 🎓 **Education:** B.Sc Software Engineering — NUML, Islamabad (CGPA 3.39)
+- 💬 **Ask me about:** AI workflow automation, LLM integration, RAG pipelines, n8n, Make.com, Next.js, FastAPI
+- 📩 **Reach me:** malikyasirramzan59@gmail.com
+- ⚡ **Fun fact:** I automated an entire B2B outreach pipeline — from LinkedIn scraping to AI-personalized emails to CRM sync — with zero manual steps
+
+---
 ## 🚀 What I build
 
 - 🤖 **AI Automation Pipelines** — n8n & Make.com workflows with GPT-4, Gemini, Claude
