@@ -127,6 +127,7 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 > Manual Trigger → LangChain AI Agent (Ozoneltd Cold Email Workflow V2) → Dynamic Copy Generation
 
 An advanced n8n automation utilizing LangChain agents to process, personalize, and optimize cold outbound email workflows with automated contextual replies.
+<img width="1538" height="508" alt="image" src="https://github.com/user-attachments/assets/65d8cea1-0ded-4895-a029-32cf4d892849" />
 
 📋 **[View & Copy n8n Workflow Blueprint](https://gist.github.com/MalikYasir59/6ecd45b96e958df0adb3882e30a9741f)**
 
