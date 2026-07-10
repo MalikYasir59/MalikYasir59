@@ -109,7 +109,8 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 > Webhook → Text Parser → Google Gemini AI → Slack Auto-Reply
 
 ### Make.com — LinkedIn Lead Extractor  
-![LinkedIn Extractor](automation%20workflow/screenshots/linkedin-lead-extractor.png/linkedin%20lead%20extractor.png)
+<img width="1890" height="907" alt="linkedin leads_extractor   " src="https://github.com/user-attachments/assets/3394c739-c027-4b52-9278-c4e262d13033" />
+
 > Webhook → JSON Parser → Array Aggregator → Google Sheets
 
 ### Make.com — Multi-Channel CRM
