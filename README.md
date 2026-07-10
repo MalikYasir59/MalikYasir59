@@ -114,11 +114,13 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 > Webhook → JSON Parser → Array Aggregator → Google Sheets
 
 ### Make.com — Multi-Channel CRM
-![CRM Automation](automation%20workflow/screenshots/multichannel-crm.png/multichannel%20crm.png)
+<img width="883" height="403" alt="m2" src="https://github.com/user-attachments/assets/5ba0d6f3-41d7-4a57-8ea5-045a70f9ae86" />
+
 > Dux-Soup · HubSpot · Mailchimp · ActiveCampaign · Google · Slack · Email · SMS
 
 ### Make.com — AI Meeting to Task
-![Meeting to Task](automation%20workflow/screenshots/ai-meeting-to-task.png/ai%20meeting%20to%20task.png)
+<img width="1180" height="618" alt="meeting live" src="https://github.com/user-attachments/assets/757090a2-2255-4d76-be57-58cef34faf34" />
+
 > Fathom Transcripts → OpenAI → Auto-Created ClickUp Tasks
 
 ## ⭐ Client reviews — verified on Upwork & Fiverr
