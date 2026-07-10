@@ -26,7 +26,7 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 - 🎓 **Education:** B.Sc Software Engineering — NUML, Islamabad (CGPA 3.39)
 - 💬 **Ask me about:** AI workflow automation, LLM integration, RAG pipelines, n8n, Make.com, Next.js, FastAPI
 - 📩 **Reach me:** malikyasirramzan59@gmail.com
-- ⚡ **Fun fact:** I automated an entire B2B outreach pipeline — from LinkedIn scraping to AI-personalized emails to CRM sync — with zero manual steps
+- ⚡ **Fun fact:** I automated an entire B2B outreach pipeline from LinkedIn scraping to AI-personalized emails to CRM sync with zero manual steps
 
 ---
 ## 🚀 What I build
