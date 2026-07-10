@@ -105,19 +105,19 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 | **Document Processing Bot** | Make.com · GPT-4 Vision · Airtable | Invoice/contract parsing → clean JSON → Google Sheets auto-push |
 
 ### Make.com — AI Slack Bot
-<img src="automation%20workflow/screenshots/ai-slack-bot.png" alt="AI Slack Bot" width="100%" />
+![AI Slack Bot](automation%20workflow/screenshots/ai-slack-bot.png/slack%20Ai.png)
 > Webhook → Text Parser → Google Gemini AI → Slack Auto-Reply
 
 ### Make.com — LinkedIn Lead Extractor  
-<img src="automation%20workflow/screenshots/linkedin-lead-extractor.png" alt="LinkedIn Extractor" width="100%" />
+![LinkedIn Extractor](automation%20workflow/screenshots/linkedin-lead-extractor.png/linkedin-lead-extractor.png)
 > Webhook → JSON Parser → Array Aggregator → Google Sheets
 
 ### Make.com — Multi-Channel CRM
-<img src="automation%20workflow/screenshots/multichannel-crm.png" alt="CRM Automation" width="100%" />
+![CRM Automation](automation%20workflow/screenshots/multichannel-crm.png/multichannel-crm.png)
 > Dux-Soup · HubSpot · Mailchimp · ActiveCampaign · Google · Slack · Email · SMS
 
 ### Make.com — AI Meeting to Task
-<img src="automation%20workflow/screenshots/ai-meeting-to-task.png" alt="Meeting to Task" width="100%" />
+![Meeting to Task](automation%20workflow/screenshots/ai-meeting-to-task.png/ai-meeting-to-task.png)
 > Fathom Transcripts → OpenAI → Auto-Created ClickUp Tasks
 
 ## ⭐ Client reviews — verified on Upwork & Fiverr
