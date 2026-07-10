@@ -104,13 +104,27 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 | **RAG Knowledge Chatbot** | n8n · Pinecone · OpenAI | Private PDF knowledge base → semantic search → Slack + WhatsApp |
 | **Document Processing Bot** | Make.com · GPT-4 Vision · Airtable | Invoice/contract parsing → clean JSON → Google Sheets auto-push |
 
+### Make.com — AI Slack Bot
+![AI Slack Bot](automation-workflows/screenshots/ai-slack-bot.png)
+> Webhook → Text Parser → Google Gemini AI → Slack Auto-Reply
+
+### Make.com — LinkedIn Lead Extractor  
+![LinkedIn Extractor](automation-workflows/screenshots/linkedin-lead-extractor.png)
+> Webhook → JSON Parser → Array Aggregator → Google Sheets
+
+### Make.com — Multi-Channel CRM
+![CRM Automation](automation-workflows/screenshots/multichannel-crm.png)
+> Dux-Soup · HubSpot · Mailchimp · ActiveCampaign · Google · Slack · Email · SMS
+
+### Make.com — AI Meeting to Task
+![Meeting to Task](automation-workflows/screenshots/ai-meeting-to-task.png)
+> Fathom Transcripts → OpenAI → Auto-Created ClickUp Tasks
 ## ⭐ Client reviews — verified on Upwork & Fiverr
 
 > **5.0★** — GoHighLevel & Make.com Automation Architect *(Upwork, May 2026)*
 >
 > *"Yasir is a true Architect. He delivered a robust, production-ready infrastructure using Make, n8n, and GHL. His mastery of JSON parsing and REST APIs automated our lead extraction with accuracy and real-time CRM syncing. He doesn't just build workflows, he builds scalable logic."*
->
-> `Committed to Quality` · `Solution Oriented` · `Detail Oriented`
+
 
 ---
 
@@ -126,7 +140,7 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 >
 > *"Great experience working with this seller! The shirt design was delivered exactly as requested and the quality was excellent. Communication was smooth and delivery was on time. Highly recommended!"*
 >
-> Things that went well: `Went above and beyond` · `Politeness` · `Deep understanding`
+
 > I'm always open to interesting projects — AI automation, SaaS builds, or technical partnerships.
 > 📩 **malikyasirramzan59@gmail.com** · 💼 **[LinkedIn](https://linkedin.com/in/malikyasir)** · 🌍 Islamabad, Pakistan
 
