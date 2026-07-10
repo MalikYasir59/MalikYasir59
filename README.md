@@ -78,15 +78,31 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 </p>
 ## 🔥 Featured projects
 
-| Project | Stack | What it does |
+### 🌐 Live Platforms — Production Delivered
+
+| Project | Live URL | What it does |
 |---|---|---|
-| 🤖 **AI Lead Gen Pipeline** | n8n · Apollo · GPT-4 · HubSpot | End-to-end B2B outreach — scrape, enrich, personalize, send |
-| 📄 **Document Processing Bot** | Make.com · GPT-4 Vision · Airtable | Parses invoices & contracts, pushes clean JSON automatically |
-| 🧠 **RAG Knowledge Chatbot** | Pinecone · OpenAI · n8n · Slack | AI chatbot trained on private PDFs with WhatsApp connector |
-| ⚖️ **LandLawAssist** | Android · Firebase · Claude API | AI legal case manager with document summarization |
-| 💼 **ExtraJobs Marketplace** | Next.js · MongoDB · Node.js | Upwork-style platform with real-time chat & milestone payments |
-| 🏦 **ProxyIQ Fintech** | FastAPI · PostgreSQL · AWS · Plaid | High-security escrow & KYC platform at production scale |
-## 🤝 Let's connect
+| **ExtraJobs4U** | [extrajobs4u.com](https://www.extrajobs4u.com/) | Upwork-style freelance marketplace — job postings, contracts, escrow payments, messaging, reviews |
+| **ProxyIQ** | [proxyiq.co](https://www.proxyiq.co/) | HIPAA-aware healthcare supply chain platform for US hospitals — order management, vendor billing, spend analytics |
+| **Aqua Flow** | [apna-pani-web.vercel.app](https://apna-pani-web.vercel.app/) | SaaS water delivery management — high-volume ordering, route scheduling, multi-tenant logistics |
+| **NexOffice** | [nex-office.vercel.app](https://nex-office.vercel.app/login) | Office ERP and CMS — corporate document management, automated admin workflows |
+| **Ptolemy Tree** | US Client — Private | Palm tree inventory tracking — field agent data sync, live reporting, maintenance ops |
+
+---
+
+### 🤖 AI & Automation Workflows — Live Production Scenarios
+
+> All workflows below are actively running for real clients at **OzoneSync Limited**
+
+| Workflow | Stack | What it does |
+|---|---|---|
+| **AI Slack Bot** | Make.com · Gemini AI | Webhook → Text Parser → Google Gemini → Slack Auto-Reply |
+| **LinkedIn Lead Extractor** | Make.com | Webhook → JSON Parser → Array Aggregator → Google Sheets |
+| **Multi-Channel CRM Automation** | Make.com · HubSpot · Mailchimp · ActiveCampaign · Slack | Dux-Soup → 10+ platform CRM sync across email, SMS, and social |
+| **AI Meeting-to-Task Bot** | Make.com · OpenAI · ClickUp | Fathom transcripts → OpenAI → Auto-created ClickUp tasks |
+| **B2B Lead Gen Pipeline** | n8n · Apollo · GPT-4 · HubSpot | LinkedIn scrape → Apollo enrich → AI personalize → CRM push → outreach |
+| **RAG Knowledge Chatbot** | n8n · Pinecone · OpenAI | Private PDF knowledge base → semantic search → Slack + WhatsApp |
+| **Document Processing Bot** | Make.com · GPT-4 Vision · Airtable | Invoice/contract parsing → clean JSON → Google Sheets auto-push |
 
 > I'm always open to interesting projects — AI automation, SaaS builds, or technical partnerships.
 > 
