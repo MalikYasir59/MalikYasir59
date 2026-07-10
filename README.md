@@ -105,20 +105,18 @@ delivering real systems that reduce manual work, scale pipelines, and ship fast.
 | **Document Processing Bot** | Make.com · GPT-4 Vision · Airtable | Invoice/contract parsing → clean JSON → Google Sheets auto-push |
 
 ### Make.com — AI Slack Bot
-![AI Slack Bot](automation workflow/screenshots/ai-slack-bot.png)
-> Webhook → Text Parser → Google Gemini AI → Slack Auto-Reply
+![AI Slack Bot](automation%20workflow/screenshots/ai-slack-bot.png)
 
 ### Make.com — LinkedIn Lead Extractor  
-![LinkedIn Extractor](automation workflow/screenshots/linkedin-lead-extractor.png)
-> Webhook → JSON Parser → Array Aggregator → Google Sheets
+![LinkedIn Extractor](automation%20workflow/screenshots/linkedin-lead-extractor.png)
 
 ### Make.com — Multi-Channel CRM
-![CRM Automation](automation workflow/screenshots/multichannel-crm.png)
-> Dux-Soup · HubSpot · Mailchimp · ActiveCampaign · Google · Slack · Email · SMS
+![CRM Automation](automation%20workflow/screenshots/multichannel-crm.png)
 
 ### Make.com — AI Meeting to Task
-![Meeting to Task](automation workflow/screenshots/ai-meeting-to-task.png)
-> Fathom Transcripts → OpenAI → Auto-Created ClickUp Tasks
+![Meeting to Task](automation%20workflow/screenshots/ai-meeting-to-task.png)
+
+
 ## ⭐ Client reviews — verified on Upwork & Fiverr
 
 > **5.0★** — GoHighLevel & Make.com Automation Architect *(Upwork, May 2026)*
