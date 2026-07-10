@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Muhammad Yasir Ramzan</h1>
+<h1 align="center">👋 Hi, I'm Malik Yasir </h1>
 
 <h3 align="center">AI Automation Engineer & Full Stack Developer | OzoneSync Limited</h3>
 
